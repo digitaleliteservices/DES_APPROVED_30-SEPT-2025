@@ -337,11 +337,17 @@ const TermsAndConditionComponent = () => {
           </p>
           <p className="mb-2">
             📞 Phone:{" "}
-            <a
+            {/* <a
               href="tel:+916366930174"
               className="text-blue-400 hover:underline"
             >
               6366930174
+            </a> */}
+            <a
+              href="tel:+916366930178"
+              className="text-blue-400 hover:underline"
+            >
+              6366930178
             </a>
           </p>
         </div>

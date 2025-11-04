@@ -81,11 +81,17 @@ const Footer = () => {
 
           <p className="font-bold text-white/75 transform transition-all duration-700 ease-out animate-fade-in-up [animation-delay:400ms] hover:translate-x-2 hover:text-white/90 p-1 rounded-lg hover:bg-white/5 backdrop-blur-sm border border-transparent hover:border-white/10">
             Phone:{" "}
-            <a
+            {/* <a
               href="tel:+916366930174"
               className="underline underline-offset-4 decoration-white/40 hover:decoration-white transition-all duration-300 hover:text-white hover:scale-105 inline-block hover:shadow-lg hover:shadow-white/20 px-1 py-0.5 rounded hover:bg-white/10"
             >
               +91 6366930174
+            </a> */}
+            <a
+              href="tel:+916366930178"
+              className="underline underline-offset-4 decoration-white/40 hover:decoration-white transition-all duration-300 hover:text-white hover:scale-105 inline-block hover:shadow-lg hover:shadow-white/20 px-1 py-0.5 rounded hover:bg-white/10"
+            >
+              +91 6366930178
             </a>
           </p>
         </div>

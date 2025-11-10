@@ -33,7 +33,7 @@ const AboutUsComp = () => {
       <MissionVisionSection />
       <Spiral />
       <WhatSetsUsApart />
-      <EliteFamily />
+      {/* <EliteFamily /> */}
       <OurExperts />
       <SocialMediaIcons />
     </>

@@ -64,9 +64,13 @@ const Footer = () => {
         {/* Address & Contact Info */}
         <div className="mt-8 md:mt-1 mx-auto max-w-[350px] space-y-1 text-[15px] sm:text-base leading-relaxed text-white/85 group">
           <p className="font-bold leading-relaxed transform transition-all duration-700 ease-out animate-fade-in-up hover:translate-x-2 hover:text-white cursor-default p-1 rounded-lg hover:bg-white/5 backdrop-blur-sm border border-transparent hover:border-white/10">
-            No 35 A, Kowdi, 2nd Floor, 1st Main Road, <br />
+            {/* No 35 A, Kowdi, 2nd Floor, 1st Main Road, <br />
             Chiranjeevi Layout, Hebbal, Kempapura, <br />
-            Bengaluru – 560024
+            Bengaluru – 560024 */}
+            35 4th A cross, Dasarahalli,
+            <br />
+            Dasarahalli Main Rd, beside KPN Fresh, Bhuvaneswari Nagar, Hebbal
+            Kempapura, Bengaluru, Karnataka 560024
           </p>
 
           <p className="text-white/75 transform transition-all duration-700 ease-out animate-fade-in-up [animation-delay:200ms] hover:translate-x-2 hover:text-white/90 p-0 rounded-lg hover:bg-white/5 backdrop-blur-sm border border-transparent hover:border-white/10 font-bold">

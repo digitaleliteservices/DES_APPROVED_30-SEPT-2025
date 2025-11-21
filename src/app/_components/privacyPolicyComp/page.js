@@ -14,7 +14,7 @@ const PrivacyPolicyComp = () => {
           <div className="flex justify-center mb-4">
             <Image
               src={DESLogo}
-              alt="Digital Elite Services Logo"
+              alt="Digital Elite Service Logo"
               width={90}
               height={90}
             />
@@ -22,7 +22,7 @@ const PrivacyPolicyComp = () => {
           <h1 className="text-4xl md:text-5xl font-bold text-black">
             Privacy Policy
           </h1>
-          <p className="mt-2 text-lg text-black">Digital Elite Services</p>
+          <p className="mt-2 text-lg text-black">Digital Elite Service</p>
         </div>
 
         {/* Content Card */}
@@ -40,7 +40,7 @@ const PrivacyPolicyComp = () => {
           <p className="mb-6">
             At{" "}
             <span className="font-semibold text-orange-400">
-              Digital Elite Services
+              Digital Elite Service
             </span>
             , your privacy is one of our top priorities. This Privacy Policy
             outlines the types of information we collect, how we use it, and the
@@ -125,7 +125,7 @@ const PrivacyPolicyComp = () => {
             <span className="font-semibold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-blue-500">
               Please note:
             </span>{" "}
-            Digital Elite Services does not have control over the data collected
+            Digital Elite Service does not have control over the data collected
             by these third parties. We recommend reviewing their respective
             privacy policies for further details.
           </p>

@@ -37,7 +37,7 @@ const Footer = () => {
           <div className="flex items-center gap-3">
             <Image
               src={desLogo}
-              alt="Digital Elite Services Logo"
+              alt="Digital Elite Service Logo"
               width={44}
               height={44}
               className="rounded-md"
@@ -45,7 +45,7 @@ const Footer = () => {
             />
             <span className="text-xl sm:text-2xl font-extrabold tracking-tight leading-none">
               <span className="bg-gradient-to-r from-cyan-300 via-blue-400 to-amber-300 bg-clip-text text-transparent">
-                Digital Elite Services
+                Digital Elite Service
               </span>
             </span>
           </div>
@@ -170,7 +170,7 @@ const Footer = () => {
         {/* Copyright */}
         <p className="mt-10 text-center text-[13px] sm:text-sm text-white/65">
           © {new Date().getFullYear()}{" "}
-          <span className="font-semibold">Digital Elite Services</span> — All
+          <span className="font-semibold">Digital Elite Service</span> — All
           rights reserved
         </p>
       </div>

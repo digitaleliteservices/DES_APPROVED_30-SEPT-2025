@@ -3,28 +3,28 @@ import Home from "../app/home/page";
 
 
 export const metadata = {
-  title: "Digital Elite Services | Home",
+  title: "Digital Elite Service | Home",
   description:
-    "Welcome to Digital Elite Services. We provide social media marketing, SEO, and professional web development solutions in Bangalore.",
+    "Welcome to Digital Elite Service. We provide social media marketing, SEO, and professional web development solutions in Bangalore.",
   keywords: [
-    "Digital Elite Services",
+    "Digital Elite Service",
     "Social Media Marketing",
     "SEO",
     "Web Development",
     "Bangalore Digital Agency",
   ],
   openGraph: {
-    title: "Digital Elite Services | Home",
+    title: "Digital Elite Service | Home",
     description:
       "Boost your business with our expert digital marketing, SEO, and web development services.",
     url: "https://digitaleliteservices.in/",
-    siteName: "Digital Elite Services",
+    siteName: "Digital Elite Service",
     images: [
       {
         url: "https://digitaleliteservices.in/og-home.jpg",
         width: 1200,
         height: 630,
-        alt: "Digital Elite Services",
+        alt: "Digital Elite Service",
       },
     ],
     locale: "en_US",

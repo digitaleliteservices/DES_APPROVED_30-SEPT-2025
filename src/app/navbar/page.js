@@ -38,13 +38,13 @@ const Navbar = () => {
             <Link href="/" className="flex items-center space-x-2">
               <Image
                 src={desLogo}
-                alt="Digital Elite Services Logo"
+                alt="Digital Elite Service Logo"
                 width={40}
                 height={40}
                 className="rounded-md"
               />
               <span className="text-lg sm:text-xl font-semibold tracking-tight text-[#1b1b4b]">
-                Digital Elite Services
+                Digital Elite Service
               </span>
             </Link>
           </div>

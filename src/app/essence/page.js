@@ -32,7 +32,7 @@ export default function Essence() {
             </span>
           </h2>
           <p className="mt-4 text-lg sm:text-xl md:text-2xl leading-relaxed text-slate-600">
-            Welcome to Digital Elite Services — where innovation and creativity
+            Welcome to Digital Elite Service — where innovation and creativity
             come together to transform business visions into reality. In today’s
             competitive digital landscape, a powerful online presence is
             essential for growth.

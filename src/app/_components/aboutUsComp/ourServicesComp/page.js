@@ -417,7 +417,7 @@ const OurServicesComp = () => {
         <div className="flex justify-center mt-10">
           <img
             src="/assets/DES_LOGO4.png"
-            alt="Digital Elite Services Logo"
+            alt="Digital Elite Service Logo"
             className="w-28 sm:w-32 md:w-36 lg:w-40 h-auto"
             loading="lazy"
           />

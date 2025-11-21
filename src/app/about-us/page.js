@@ -8,27 +8,27 @@ import SplashCursor from "@/components/SplashCursor";
 
 // ✅ SEO Metadata (this replaces putting <title> and <meta> in JSX)
 export const metadata = {
-  title: "About Us – Digital Elite Services | Expert Web Development & Marketing",
+  title: "About Us – Digital Elite Service | Expert Web Development & Marketing",
   description:
-    "Discover Digital Elite Services’ story, mission, and expert team providing web development & marketing services in Bangalore.",
+    "Discover Digital Elite Service’ story, mission, and expert team providing web development & marketing services in Bangalore.",
   keywords: [
-    "About Digital Elite Services",
+    "About Digital Elite Service",
     "Web Development Bangalore",
     "Digital Marketing",
     "SEO Services",
     "Team",
   ],
   openGraph: {
-    title: "About Us – Digital Elite Services",
+    title: "About Us – Digital Elite Service",
     description: "Meet the team providing digital marketing & development services.",
     url: "https://digitaleliteservices.in/about-us",
-    siteName: "Digital Elite Services",
+    siteName: "Digital Elite Service",
     images: [
       {
         url: "https://digitaleliteservices.in/og-aboutus.jpg",
         width: 1200,
         height: 630,
-        alt: "Digital Elite Services About Us",
+        alt: "Digital Elite Service About Us",
       },
     ],
     locale: "en_US",

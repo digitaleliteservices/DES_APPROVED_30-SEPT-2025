@@ -49,7 +49,7 @@ const PreWhatWeOffer = () => {
               >
                 <Image
                   src={companyLogo}
-                  alt="Digital Elite Services logo"
+                  alt="Digital Elite Service logo"
                   width={72}
                   height={72}
                   className="object-contain"
@@ -129,7 +129,7 @@ const PreWhatWeOffer = () => {
             </p>
 
             <p className="mt-4 text-base md:text-lg leading-relaxed">
-              We at Digital Elite Services combine creativity, strategic
+              We at Digital Elite Service combine creativity, strategic
               insight, and cutting-edge technology to deliver tailored solutions
               that meet each client’s unique objectives. From crafting engaging
               marketing campaigns and designing compelling visuals to developing

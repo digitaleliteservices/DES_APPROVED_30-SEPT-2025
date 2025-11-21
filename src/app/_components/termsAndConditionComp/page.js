@@ -14,7 +14,7 @@ const TermsAndConditionComponent = () => {
           <div className="flex justify-center mb-4">
             <Image
               src={DESLogo}
-              alt="Digital Elite Services Logo"
+              alt="Digital Elite Service Logo"
               width={90}
               height={90}
             />
@@ -22,7 +22,7 @@ const TermsAndConditionComponent = () => {
           <h1 className="text-4xl md:text-5xl font-bold text-black">
             Terms &amp; Conditions
           </h1>
-          <p className="mt-2 text-lg text-gray-400">Digital Elite Services</p>
+          <p className="mt-2 text-lg text-gray-400">Digital Elite Service</p>
         </div>
 
         {/* Content Card */}
@@ -40,7 +40,7 @@ const TermsAndConditionComponent = () => {
           <p className="mb-6">
             Welcome to{" "}
             <span className="font-semibold text-orange-400">
-              Digital Elite Services
+              Digital Elite Service
             </span>
             . These Terms and Conditions outline the rules and regulations for
             the use of our website and services. By accessing this website, you
@@ -57,7 +57,7 @@ const TermsAndConditionComponent = () => {
               <span className="font-semibold">
                 “Company”, “We”, “Our”, or “Us”
               </span>{" "}
-              refers to Digital Elite Services.
+              refers to Digital Elite Service.
             </li>
             <li>
               <span className="font-semibold">“User”, “Client”, or “You”</span>{" "}
@@ -93,7 +93,7 @@ const TermsAndConditionComponent = () => {
           <ul className="list-disc pl-6 space-y-2 mb-6">
             <li>
               All content, branding, graphics, text, software, and multimedia on
-              this site are the property of Digital Elite Services unless
+              this site are the property of Digital Elite Service unless
               otherwise stated.
             </li>
             <li>
@@ -164,7 +164,7 @@ const TermsAndConditionComponent = () => {
             8. Limitation of Liability
           </h2>
           <p className="mb-2">
-            Digital Elite Services will not be held liable for:
+            Digital Elite Service will not be held liable for:
           </p>
           <ul className="list-disc pl-6 space-y-2 mb-6">
             <li>Any indirect, incidental, or consequential damages.</li>
@@ -193,7 +193,7 @@ const TermsAndConditionComponent = () => {
             10. Indemnification
           </h2>
           <p className="mb-6">
-            You agree to indemnify and hold harmless Digital Elite Services and
+            You agree to indemnify and hold harmless Digital Elite Service and
             its team from any claims, damages, or liabilities arising from your
             use of the website or services or your breach of these terms.
           </p>
@@ -278,7 +278,7 @@ const TermsAndConditionComponent = () => {
           </h2>
           <p className="mb-6">
             You agree not to directly solicit, hire, or engage any employee,
-            consultant, or contractor of Digital Elite Services during the term
+            consultant, or contractor of Digital Elite Service during the term
             of the contract and for 12 months after termination of services.
           </p>
 
@@ -309,7 +309,7 @@ const TermsAndConditionComponent = () => {
           </h2>
           <p className="mb-6">
             These Terms, along with any proposal or contract, constitute the
-            entire agreement between you and Digital Elite Services and
+            entire agreement between you and Digital Elite Service and
             supersede any prior agreements or understandings.
           </p>
 

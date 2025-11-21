@@ -108,7 +108,7 @@ export default function OurExperts() {
             />
             <p className="mt-3 text-slate-600 max-w-2xl mx-auto">
               Compact profiles of the teams powering design, development, and
-              growth at Digital Elite Services.
+              growth at Digital Elite Service.
             </p>
           </div>
 

@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
+import seoKeywords from "./seoKeywords";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -12,17 +13,13 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// Step 1: Build keyword string from your business categories/services
-const keywords =
-  "Social Media Marketing Company in Bangalore, Digital marketing services for small Business, Web Development, Graphic Design Agency, Branding Services, Online Advertising Services, SEO Services, E-commerce Marketing, Digital Elite Service, PPC agency, Website Design Company near me, Local digital marketing services, Google My Business services, Email marketing, Lead generation";
-
 // Step 2: Expanded metadata block
 export const metadata = {
   title:
     "Digital Elite Service | Social Media Marketing, SEO, Web Development Bangalore",
   description:
     "Digital Elite Service delivers professional web development, social media marketing, and SEO solutions for businesses in Bangalore and beyond.",
-  keywords,
+  keywords: seoKeywords,
   openGraph: {
     title: "Digital Elite Service | Digital Marketing & Web Development",
     description:

@@ -4,19 +4,14 @@
 import Loader from "../_components/loader/page";
 import OurContact from "../_components/aboutUsComp/ourContact/page";
 import Footer from "../footer/page";
+import seoKeywords from "../seoKeywords";
 
 const { default: Navbar } = require("../navbar/page");
 export const metadata = {
   title: "Contact Us | Digital Elite Service - Web Development & SEO Bangalore",
   description:
     "Get in touch with Digital Elite Service for professional web development, SEO, and digital marketing solutions in Bangalore. We’re here to help your business grow.",
-  keywords: [
-    "Contact Digital Elite Service",
-    "Web Development Bangalore",
-    "Digital Marketing Contact",
-    "SEO Services Bangalore",
-    "Business Support",
-  ],
+  keywords: seoKeywords,
   openGraph: {
     title: "Contact Us | Digital Elite Service",
     description:

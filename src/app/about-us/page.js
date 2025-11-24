@@ -5,19 +5,14 @@
 import AboutUsComp from "../_components/aboutUsComp/page";
 import Navbar from "../navbar/page";
 import SplashCursor from "@/components/SplashCursor";
+import seoKeywords from "../seoKeywords";
 
 // ✅ SEO Metadata (this replaces putting <title> and <meta> in JSX)
 export const metadata = {
   title: "About Us – Digital Elite Service | Expert Web Development & Marketing",
   description:
     "Discover Digital Elite Service’ story, mission, and expert team providing web development & marketing services in Bangalore.",
-  keywords: [
-    "About Digital Elite Service",
-    "Web Development Bangalore",
-    "Digital Marketing",
-    "SEO Services",
-    "Team",
-  ],
+  keywords: seoKeywords,
   openGraph: {
     title: "About Us – Digital Elite Service",
     description: "Meet the team providing digital marketing & development services.",

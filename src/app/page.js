@@ -1,18 +1,12 @@
 import Image from "next/image";
 import Home from "../app/home/page";
-
+import seoKeywords from "./seoKeywords";
 
 export const metadata = {
   title: "Digital Elite Service | Home",
   description:
     "Welcome to Digital Elite Service. We provide social media marketing, SEO, and professional web development solutions in Bangalore.",
-  keywords: [
-    "Digital Elite Service",
-    "Social Media Marketing",
-    "SEO",
-    "Web Development",
-    "Bangalore Digital Agency",
-  ],
+  keywords: seoKeywords,
   openGraph: {
     title: "Digital Elite Service | Home",
     description:

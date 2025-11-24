@@ -2,17 +2,12 @@
 
 // import { useState, useEffect } from "react";
 // import Loader from "../_components/loader/page";
+import seoKeywords from "../seoKeywords";
 export const metadata = {
   title: "Our Services | Digital Elite Service - Web Development & Digital Marketing",
   description:
     "Explore the comprehensive digital solutions offered by Digital Elite Service, including web development, SEO, social media marketing, and branding services in Bangalore.",
-  keywords: [
-    "Web Development Services",
-    "SEO Services Bangalore",
-    "Digital Marketing Solutions",
-    "Branding Services",
-    "Social Media Management",
-  ],
+  keywords: seoKeywords,
   openGraph: {
     title: "Our Services | Digital Elite Service",
     description:

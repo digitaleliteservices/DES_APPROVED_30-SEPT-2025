@@ -19,7 +19,7 @@ const PrivacyPolicy = () => {
   if (loading) return <Loader />;
   return (
     <div>
-      <SplashCursor/>
+      {/* <SplashCursor/> */}
       <Navbar />
       <PrivacyPolicyComp />
       <SocialMediaIcons/>

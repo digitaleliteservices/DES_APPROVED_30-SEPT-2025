@@ -7,12 +7,47 @@ const LOGO_GRADIENT =
   "linear-gradient(90deg,#00E5FF 0%,#2C6DF6 52%,#FF8A00 100%)";
 
 const clients = [
-  { name: "DHS", src: "/assets/DHS.png", url: "https://defencehousingsociety.com/" },
-  { name: "RRPL", src: "/assets/clientlogo.png", url: "https://rajavrukshagroup.in/" },
-  { name: "Plumeria", src: "/assets/Plumeria.png", url: "https://plumeriaresort.in/" },
-  { name: "SriMatru", src: "/assets/SriMathru3.png", url: "https://srimatru.in/" },
-  { name: "North East Reality", src: "/assets/logo-NER2.png", url: "https://northeastreality.in/" },
+  {
+    name: "DHS",
+    src: "/assets/DHS.png",
+    url: "https://defencehousingsociety.com/",
+  },
+  {
+    name: "RRPL",
+    src: "/assets/clientlogo.png",
+    url: "https://rajavrukshagroup.in/",
+  },
+  {
+    name: "Plumeria",
+    src: "/assets/Plumeria.png",
+    url: "https://plumeriaresort.in/",
+  },
+  {
+    name: "SriMatru",
+    src: "/assets/SriMathru3.png",
+    url: "https://srimatru.in/",
+  },
+  {
+    name: "North East Reality",
+    src: "/assets/logo-NER2.png",
+    url: "https://northeastreality.in/",
+  },
   { name: "Gnanasamrudhi", src: "/assets/gnanasamrudhi.png" },
+  {
+    name: "Airzen technologies",
+    src: "/assets/Airzenlogo.jpg",
+    url: "https://airzentechnologies.in/",
+  },
+  {
+    name: "Neel Technologies",
+    src: "/assets/neel_technologies.png",
+    url: "https://www.neeltechnologies.com/",
+  },
+  {
+    name: "Chaska Tea",
+    src: "/assets/chaskatea.png",
+    url: "https://chaskatea.com/",
+  },
 ];
 
 export default function OurClients() {

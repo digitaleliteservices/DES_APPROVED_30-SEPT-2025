@@ -56,7 +56,7 @@ const OurServices = () => {
   // if (loading) return <Loader />;
   return (
     <div>
-      <SplashCursor/>
+      {/* <SplashCursor/> */}
       <Navbar />
       <OurServicesComp />
       <SocialMediaIcons/>

@@ -43,7 +43,7 @@ export default function AboutUs() {
   // if (loading) return <Loader />;
   return (
     <div>
-      <SplashCursor />
+      {/* <SplashCursor /> */}
       <Navbar />
       <AboutUsComp />
     </div>

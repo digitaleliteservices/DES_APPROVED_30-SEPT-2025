@@ -19,7 +19,7 @@ const TermsConditions = () => {
   if (loading) return <Loader />;
   return (
     <div>
-      <SplashCursor/>
+      {/* <SplashCursor/> */}
       <Navbar />
       <TermsAndConditionComponent />
       {/* <Footer /> */}

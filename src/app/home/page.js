@@ -88,7 +88,7 @@ export default function Home() {
 
   return (
     <div className="relative">
-      <SplashCursor />
+      {/* <SplashCursor /> */}
       <Navbar />
       <WarpBackground>
         <Hero />
